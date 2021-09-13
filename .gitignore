@@ -3,3 +3,5 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+terraform.tfvars
+service-account.json
